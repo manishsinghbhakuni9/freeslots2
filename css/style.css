@@ -20,18 +20,18 @@ img{
     font-size: 15px;
 }
 .coloraccsite{
-    color: #ecb12f;
+    color: #1D63FF;
 }
 .coloraccsite2{
-    color: #ecb12f; 
+    color: #FFCE32; 
 }
 .coloraccsite3{
-    color: #dac919;
+    color: #1D63FF;
 }
 .btnsite{
     color: #000000;
-    background: #ecb12f;
-    border: 2px solid #ecb12f;
+    background: #1D63FF;
+    border: 2px solid #1D63FF;
     border-radius: 40px;
     padding: 10px 30px;
     text-transform: uppercase;
@@ -39,33 +39,33 @@ img{
 .btnsite:hover{
     color: #fff;
     background: transparent;
-    border: 2px solid #ecb12f;
+    border: 2px solid #1D63FF;
     padding: 10px 30px;
 }
 .btnsite2{
     color: #000000;
-    background: #ecb12f;
-    border: 2px solid #ecb12f;
+    background: #FFCE32;
+    border: 2px solid #FFCE32;
     border-radius: 40px;
     padding: 10px 30px;
     text-transform: uppercase;
 }
 .btnsite2:hover{
     background: transparent;
-    border: 2px solid #ecb12f;
+    border: 2px solid #FFCE32;
     padding: 10px 30px;
 }
 .btnsite3{
     color: #000000;
     background: #fff;
-    border: 2px solid #ecb12f;
+    border: 2px solid #FFCE32;
     border-radius: 40px;
     padding: 10px 30px;
     text-transform: uppercase;
 }
 .btnsite3:hover{
     background: transparent;
-    border: 2px solid #ecb12f;
+    border: 2px solid #FFCE32;
     padding: 10px 30px;
     color: #fff;
 }
@@ -103,8 +103,8 @@ a button{
 }
 
 .borderimg{
-    border: 2px solid #ecb12f;
-    background: #ecb12f;
+    border: 2px solid #FFCE32;
+    background: #FFCE32;
     color: #fff;
     overflow: hidden;
 }
@@ -113,7 +113,7 @@ a button{
     transition: 0.98s;
 }
 .bgaccsite {
-    background: #ecb12f;
+    background: #1D63FF;
 }
 
 /* Feature sect */
@@ -126,7 +126,7 @@ a button{
     transition-duration: 2s;
 }
 #featuresect .borderbox:hover{
-    background : #f3eebb;
+    background : #1D63FF;
 }
 .featuretext{
     padding: 35px 0;
@@ -146,7 +146,7 @@ a button{
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     border-radius: 50%;
-    background: #f3eebb;
+    background: #1D63FF;
     width: 100px;
     height: 100px;
     position: absolute;
